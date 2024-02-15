@@ -1,2 +1,3 @@
 # Simple-Photo-Resizer
-## This is a simple python program to resize photos with ease. 
+## This is a simple Python program to resize photos with ease. 
+### 
